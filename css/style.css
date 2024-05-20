@@ -1,0 +1,33 @@
+
+
+#landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Italiana", sans-serif;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 75px;
+    color: #432322;
+}
+
+a {
+    background-color: #9685A7;
+    
+    border-radius: 30px;
+    color: #EEEAE0;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+p {
+    font-family: "Italianno", sans-serif;
+}
